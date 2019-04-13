@@ -4,7 +4,8 @@ class hello extends React.Component{
     render(){
         return(
             <div>
-                hello^^
+                Git init - commit(with comment) - fetch - pull -push
+                HelloTestGit
             </div>
         )
     }
