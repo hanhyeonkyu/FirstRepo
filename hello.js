@@ -5,7 +5,7 @@ class hello extends React.Component{
         return(
             <div>
                 Git init - commit(with comment) - fetch - pull -push
-                git pull test
+                git pull test - Success!
             </div>
         )
     }
